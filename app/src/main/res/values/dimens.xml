@@ -1,0 +1,38 @@
+<!-- Copyright (C) 2016 Joey Turczak -->
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="widget_min_height">180dp</dimen>
+    <dimen name="widget_resize_width">220dp</dimen>
+    <dimen name="widget_min_width">250dp</dimen>
+    <dimen name="widget_list_item_vertical_padding">8dp</dimen>
+    <dimen name="widget_list_item_text_size">16sp</dimen>
+    <dimen name="widget_vertical_padding">8dp</dimen>
+    <dimen name="widget_title_text_size">20sp</dimen>
+    <dimen name="widget_list_divider_height">0dp</dimen>
+    <dimen name="widget_icon_padding">16dp</dimen>
+
+    <dimen name="tablet_main_container_width">0dp</dimen>
+    <dimen name="tablet_divider_width">1dp</dimen>
+    <dimen name="tablet_detail_container_width">0dp</dimen>
+
+    <dimen name="title_list_item_padding">16dp</dimen>
+    <dimen name="title_list_item_text_size">16sp</dimen>
+    <dimen name="title_list_item_height">40dp</dimen>
+
+    <dimen name="pdf_placeholder_text_size">24sp</dimen>
+    <dimen name="pdf_placeholder_padding">40dp</dimen>
+
+    <dimen name="manual_list_item_elevation">2dp</dimen>
+    <dimen name="manual_list_item_padding">16dp</dimen>
+    <dimen name="manual_list_item_text_size">16sp</dimen>
+
+    <dimen name="spinner_drop_down_padding">16dp</dimen>
+    <dimen name="spinner_drop_down_text_padding_start">32dp</dimen>
+    <dimen name="spinner_drop_down_text_padding_end">0dp</dimen>
+    <dimen name="spinner_drop_down_text_size">16sp</dimen>
+    <dimen name="pdf_page_number_text_size">24sp</dimen>
+
+</resources>

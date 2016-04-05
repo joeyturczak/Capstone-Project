@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Joey Turczak -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:gravity="center_vertical"
+              android:animateLayoutChanges="true"
+              android:id="@+id/spinner_item_container"
+              android:layout_width="match_parent"
+              android:layout_height="?attr/listPreferredItemHeight">
+
+    <ImageView
+        android:id="@+id/location_icon"
+        android:tint="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:gravity="center_vertical|start"
+        android:contentDescription="@string/spinner_location_icon_content_description"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:id="@+id/location_title"
+        android:maxLines="1"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        style="@style/SpinnerTitle"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

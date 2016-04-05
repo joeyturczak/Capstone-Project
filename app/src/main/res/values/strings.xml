@@ -1,0 +1,128 @@
+<!-- Copyright (C) 2016 Joey Turczak -->
+<resources>
+    <string name="app_name">Driving Reference</string>
+    <string name="action_share">Share</string>
+
+    <string name="alabama">Alabama</string>
+    <string name="alaska">Alaska</string>
+    <string name="arizona">Arizona</string>
+    <string name="arkansas">Arkansas</string>
+    <string name="california">California</string>
+    <string name="colorado">Colorado</string>
+    <string name="connecticut">Connecticut</string>
+    <string name="delaware">Delaware</string>
+    <string name="district_of_columbia">District of Columbia</string>
+    <string name="florida">Florida</string>
+    <string name="georgia">Georgia</string>
+    <string name="hawaii">Hawaii</string>
+    <string name="idaho">Idaho</string>
+    <string name="illinois">Illinois</string>
+    <string name="indiana">Indiana</string>
+    <string name="iowa">Iowa</string>
+    <string name="kansas">Kansas</string>
+    <string name="kentucky">Kentucky</string>
+    <string name="louisiana">Louisiana</string>
+    <string name="maine">Maine</string>
+    <string name="maryland">Maryland</string>
+    <string name="massachusetts">Massachusetts</string>
+    <string name="michigan">Michigan</string>
+    <string name="minnesota">Minnesota</string>
+    <string name="mississippi">Mississippi</string>
+    <string name="missouri">Missouri</string>
+    <string name="montana">Montana</string>
+    <string name="nebraska">Nebraska</string>
+    <string name="nevada">Nevada</string>
+    <string name="new_hampshire">New Hampshire</string>
+    <string name="new_jersey">New Jersey</string>
+    <string name="new_mexico">New Mexico</string>
+    <string name="new_york">New York</string>
+    <string name="north_carolina">North Carolina</string>
+    <string name="north_dakota">North Dakota</string>
+    <string name="ohio">Ohio</string>
+    <string name="oklahoma">Oklahoma</string>
+    <string name="oregon">Oregon</string>
+    <string name="pennsylvania">Pennsylvania</string>
+    <string name="rhode_island">Rhode Island</string>
+    <string name="south_carolina">South Carolina</string>
+    <string name="south_dakota">South Dakota</string>
+    <string name="tennessee">Tennessee</string>
+    <string name="texas">Texas</string>
+    <string name="utah">Utah</string>
+    <string name="vermont">Vermont</string>
+    <string name="virginia">Virginia</string>
+    <string name="washington">Washington</string>
+    <string name="west_virginia">West Virginia</string>
+    <string name="wisconsin">Wisconsin</string>
+    <string name="wyoming">Wyoming</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="empty_menu_list">Something went wrong! We have no data to display.</string>
+
+    <string name="title_driving_manuals">Driving Manuals</string>
+    <string name="title_practice_tests">Practice Tests</string>
+
+    <string name="location_error">Error - Cannot determine location</string>
+    <string name="location_intent_result_key" translatable="false">LocationIntentResult</string>
+    <string name="location_broadcast_intent_filter" translatable="false">LocationBroadcast</string>
+    <string name="location_intent_message_key" translatable="false">LocationIntentMessage</string>
+
+    <string name="bundle_main_activity_state_key" translatable="false">Bundle</string>
+    <string name="main_activity_current_location_key" translatable="false">CurrentLocation</string>
+    <string name="main_activity_title_key" translatable="false">Title</string>
+
+    <string name="spinner_location_icon_content_description">Location icon</string>
+    <string name="toolbar_image_content_description">Toolbar Image</string>
+    <string name="driver_manual_icon_content_description">Driver manual icon</string>
+    <string name="pdf_page_content_description">Driver manual page</string>
+
+    <string name="widget_title">Driver Manuals</string>
+    <string name="widget_empty_view_text">No information to display</string>
+    <string name="widget_manual_key" translatable="false">Manual</string>
+
+    <string name="pdf_placeholder_text">Downloading your driver manual.\nThis will only take a moment…</string>
+    <string name="pdf_page_number_key" translatable="false">PageNumber</string>
+    <string name="pdf_page_number_text" translatable="false">%1$s / %2$s</string>
+    <string name="pdf_file_name_key" translatable="false">FileName</string>
+    <string name="pdf_file_extension" translatable="false">.pdf</string>
+    <string name="pdf_fragment_manual_key" translatable="false">Manual</string>
+    <string name="pdf_fragment_bundle_key" translatable="false">Bundle</string>
+
+    <string name="main_list_listener_exception" translatable="false">" must implement OnItemSelectedListener"</string>
+
+    <string name="shared_preference_location_key" translatable="false">Location</string>
+
+    <string name="sort_order_asc" translatable="false">" ASC"</string>
+    <string name="sort_order_desc" translatable="false">" DESC"</string>
+    <string name="manual_table_update_selection">%1$s =? AND %2$s =? AND %3$s =?</string>
+
+    <string name="transition_main_activity_image" translatable="false">Image</string>
+    <string name="transition_list_icon" translatable="false">iconView</string>
+
+    <string name="download_server_error">"Server returned HTTP "</string>
+    <string name="pdf_download_dialog_message">Downloading</string>
+    <string name="toast_download_complete">Download Complete</string>
+    <string name="download_progress_key" translatable="false">Progress</string>
+    <string name="download_result_key" translatable="false">Result</string>
+    <string name="download_progress_intent_filter" translatable="false">DownloadProgressBroadcast</string>
+    <string name="download_complete_intent_filter" translatable="false">DownloadCompleteBroadcast</string>
+
+
+    <string name="recycler_view_error">Not bound to RecyclerView</string>
+
+    <string name="share_manual_type" translatable="false">text/plain</string>
+
+    <string name="file_directory" translatable="false">/Driving_Reference</string>
+
+    <string name="gce_root_url" translatable="false">https://driving-reference.appspot.com/_ah/api/</string>
+
+    <string name="drawable_identifier" translatable="false">drawable</string>
+    <string name="package_name" translatable="false">com.joeyturczak.drivingreference</string>
+    <string name="update_data_intent_filter" translatable="false">Data</string>
+    <string name="toast_network_unavailable">Network unavailable</string>
+    <string name="pdf_placeholder_network_unavailable">There is no network available right now. Touch here to try again.</string>
+    <string name="database_empty_intent_key" translatable="false">IsEmpty</string>
+    <string name="alert_title_no_network">No Network Connection</string>
+    <string name="alert_message_no_network">We need to download some data for you to get started. Please check your connection and try again</string>
+    <string name="alert_no_network_button">Retry</string>
+</resources>

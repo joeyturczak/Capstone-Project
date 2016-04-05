@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Joey Turczak -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:background="@color/white"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/pdf_placeholder_text_size"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/pdf_placeholder_padding"
+        android:id="@+id/placeholder_text"
+        android:text="@string/pdf_placeholder_text"/>
+
+    <include layout="@layout/progress_bar"/>
+
+</RelativeLayout>

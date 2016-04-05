@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Joey Turczak -->
+<resources>
+    <!--No questions-->
+    <!--Alabama-->
+    <!--Colorado-->
+    <!--Connecticut-->
+    <string name="ca_r_question_1">You may drive off of the paved roadway to pass another vehicle:</string>
+    <string name="ca_r_answer_1a">Under no circumstances</string>
+    <string name="ca_r_answer_1b">If the vehicle ahead of you is turning left</string>
+    <string name="ca_r_answer_1c">If the shoulder is wide enough to accommodate your vehicle</string>
+
+    <string name="ca_r_question_2">You are approaching a railroad crossing with no warning devices
+        and are unable to see 400 feet down the tracks in one direction.
+        The speed limit is:</string>
+    <string name="ca_r_answer_2a">15 mph</string>
+    <string name="ca_r_answer_2b">20 mph</string>
+    <string name="ca_r_answer_2c">25 mph</string>
+
+    <string name="ca_r_question_3">When parking your vehicle parallel to the curb on a level street:</string>
+    <string name="ca_r_answer_3a">Your wheels must be within 18 inches of the curb</string>
+    <string name="ca_r_answer_3b">Your front wheels must be turned toward the street</string>
+    <string name="ca_r_answer_3c">One of your rear wheels must touch the curb</string>
+
+    <string name="ca_r_question_4">When you are merging onto the freeway, you should be driving:</string>
+    <string name="ca_r_answer_4a">At or near the same speed as the traffic on the freeway</string>
+    <string name="ca_r_answer_4b">5 to 10 MPH slower than the traffic on the freeway</string>
+    <string name="ca_r_answer_4c">The posted speed limit for traffic on the freeway</string>
+
+    <string name="ca_r_question_5">When driving in for, you should use your:</string>
+    <string name="ca_r_answer_5a">Low beams</string>
+    <string name="ca_r_answer_5b">High beams</string>
+    <string name="ca_r_answer_5c">Fog lights only</string>
+
+    <string name="ca_r_question_6">A white painted curb means:</string>
+    <string name="ca_r_answer_6a">Loading zone for passengers or mail only</string>
+    <string name="ca_r_answer_6b">Loading zone for freight or passengers</string>
+    <string name="ca_r_answer_6c">Loading zone for freight only</string>
+
+    <string name="ca_r_question_7">A school bus ahead of you in your lane is stopped with red lights flashing. You should:</string>
+    <string name="ca_r_answer_7a">Stop as long as the red lights are flashing</string>
+    <string name="ca_r_answer_7b">Slow to 25 MPH and pass cautiously</string>
+    <string name="ca_r_answer_7c">Stop, then proceed when you think all of the children have exited the bus</string>
+
+    <string name="ca_r_question_8">California\'s "Basic Speed Law" says:</string>
+    <string name="ca_r_answer_8a">You should never drive faster than is sage for current conditions</string>
+    <string name="ca_r_answer_8b">You should never drive faster than posted speed limits</string>
+    <string name="ca_r_answer_8c">The maximum speed limit in California is 70 mph on certain freeways</string>
+
+    <string name="ca_r_question_9">You just sold your vehicle. You must notify the DMV within ___ days.</string>
+    <string name="ca_r_answer_9a">5</string>
+    <string name="ca_r_answer_9b">10</string>
+    <string name="ca_r_answer_9c">15</string>
+
+    <string name="ca_r_question_10">To avoid last minute moves, you should be looking down the road
+        to where your vehicle will be in about __________.</string>
+    <string name="ca_r_answer_10a">10 to 15 seconds</string>
+    <string name="ca_r_answer_10b">5 to 10 seconds</string>
+    <string name="ca_r_answer_10c">15 to 20 seconds</string>
+</resources>

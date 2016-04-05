@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Joey Turczak -->
+<resources>
+    <string-array name="locations">
+        <item>@string/alabama</item>
+        <item>@string/alaska</item>
+        <item>@string/arizona</item>
+        <item>@string/arkansas</item>
+        <item>@string/california</item>
+        <item>@string/colorado</item>
+        <item>@string/connecticut</item>
+        <item>@string/delaware</item>
+        <item>@string/district_of_columbia</item>
+        <item>@string/florida</item>
+        <item>@string/georgia</item>
+        <item>@string/hawaii</item>
+        <item>@string/idaho</item>
+        <item>@string/illinois</item>
+        <item>@string/indiana</item>
+        <item>@string/iowa</item>
+        <item>@string/kansas</item>
+        <item>@string/kentucky</item>
+        <item>@string/louisiana</item>
+        <item>@string/maine</item>
+        <item>@string/maryland</item>
+        <item>@string/massachusetts</item>
+        <item>@string/michigan</item>
+        <item>@string/minnesota</item>
+        <item>@string/mississippi</item>
+        <item>@string/missouri</item>
+        <item>@string/montana</item>
+        <item>@string/nebraska</item>
+        <item>@string/nevada</item>
+        <item>@string/new_hampshire</item>
+        <item>@string/new_jersey</item>
+        <item>@string/new_mexico</item>
+        <item>@string/new_york</item>
+        <item>@string/north_carolina</item>
+        <item>@string/north_dakota</item>
+        <item>@string/ohio</item>
+        <item>@string/oklahoma</item>
+        <item>@string/oregon</item>
+        <item>@string/pennsylvania</item>
+        <item>@string/rhode_island</item>
+        <item>@string/south_carolina</item>
+        <item>@string/south_dakota</item>
+        <item>@string/tennessee</item>
+        <item>@string/texas</item>
+        <item>@string/utah</item>
+        <item>@string/vermont</item>
+        <item>@string/virginia</item>
+        <item>@string/washington</item>
+        <item>@string/west_virginia</item>
+        <item>@string/wisconsin</item>
+        <item>@string/wyoming</item>
+    </string-array>
+</resources>

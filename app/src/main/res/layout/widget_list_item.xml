@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Joey Turczak -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal" android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:paddingTop="@dimen/widget_list_item_vertical_padding"
+              android:paddingBottom="@dimen/widget_list_item_vertical_padding"
+              android:id="@+id/widget_list_item"
+              android:background="@drawable/list_item">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/widget_icon_padding"
+        android:paddingEnd="@dimen/widget_icon_padding"
+        android:tint="@color/colorAccent"
+        android:contentDescription="@string/driver_manual_icon_content_description"
+        android:id="@+id/manual_icon"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/manual_name"
+        android:textColor="@color/black"
+        android:textSize="@dimen/widget_list_item_text_size"/>
+
+</LinearLayout>
